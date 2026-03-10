@@ -62,7 +62,7 @@ export default class Config {
 		this.icoBruno = `Bu proje, Three.js denemeleri ve sahne tasarımı odaklı kişisel bir çalışmadır.`
 
 		this.icoGithub = `Kaynak kodlarını GitHub deposunda inceleyebilirsin:
-			<a href="https://github.com/burakkurt-io/burakkurt-blender-vagon" target="_blank">
+			<a href="https://github.com/burakkurt-io/blender-vagon" target="_blank">
 				<svg><use href="./social/icoGithub.svg#idIco"></use></svg>
 				GitHub</a>`
 
